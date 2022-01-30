@@ -1,5 +1,7 @@
  Hi there. I'm Shivam Chhetry <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
- <hr>
+<hr>
+
+<img align="right" src="https://user-images.githubusercontent.com/39437051/151689540-4a5f7789-96ab-4288-8252-9b4a272ef758.gif" width="290" height="290" />
 
 - :zap: I love Data science, math, programming
 - 🌱 I’m addicted to learning and growing every day
