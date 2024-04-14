@@ -1,8 +1,5 @@
- Hi there. I'm Shivam Chhetry <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<img align="right" src="https://user-images.githubusercontent.com/39437051/151946663-a6eaacf3-30b5-4871-9dc2-f665c31338d5.png" width="50" height="50" />
+# `Hi there. I'm Shivam Chhetry` <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <hr>
-
-<img align="right" src="https://user-images.githubusercontent.com/39437051/151689540-4a5f7789-96ab-4288-8252-9b4a272ef758.gif" width="250" height="250" />
 
 - :zap: I love Data science, math, programming
 - 🌱 I’m addicted to learning and growing every day
@@ -10,10 +7,6 @@
 - 💬 I’m currently learning Machine Learning, Data Science, AWS, DL and some other stuffs too
 - 🤔 How to reach me: [@shivamkc01](https://www.linkedin.com/in/shivamkc01/)
 - ⚡ Fun fact: I love to draw and play guitar / drums / Art 
-
-<br/>
-<br/>
-<br/>
 <hr>
 
 ### 🔗 Connect with me:
