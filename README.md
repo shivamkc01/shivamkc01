@@ -1,13 +1,21 @@
-# `Hi there. I'm Shivam Chhetry` <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<hr>
+# Shivam Chhetry
 
-- :zap: I love Data science, math, programming
-- 🌱 I’m addicted to learning and growing every day
-- 🌏 I’m currently sharing a little bit of my knowledge to the world through my blogs
-- 💬 I’m currently learning Machine Learning, Data Science, AWS, DL and some other stuffs too
-- 🤔 How to reach me: [@shivamkc01](https://www.linkedin.com/in/shivamkc01/)
-- ⚡ Fun fact: I love to draw and play guitar / drums / Art 
-<hr>
+👋 Hey there! I'm Shivam Chhetry, a Data Science enthusiast with a fervent dedication to machine learning and deep learning exploration.
+
+## About Me
+
+- 💼 Currently on the exciting journey of Data Science, with nearly a year of hands-on experience.
+- 🎓 Graduated with a Bachelor's degree in Computer Applications (BCA), igniting my passion for data-driven insights.
+- 🏆 Active participant on Kaggle, driven by the challenge and the opportunity to learn and grow.
+- 📈 Eager to delve deeper into machine learning and deep learning methodologies, constantly seeking opportunities to expand my skills.
+- 🌐 Discover more about my projects and interests on my personal website [philschmid.de](https://www.philschmid.de).
+
+## Connect with Me
+
+- 📧 Reach out via email at [your@email.com](mailto:shivam.11712711@gmail.com).
+- 🔗 Let's connect on LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shivamkc01/)).
+- 🐦 Follow my journey on Kaggle (formerly Kaggle) for updates and insights: [twitter.com/yourhandle]([https://twitter.com/yourhandle](https://www.kaggle.com/shivamkc3)).
+- 
 
 ### 🔗 Connect with me:
 
