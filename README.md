@@ -8,7 +8,7 @@
 - 🎓 Graduated with a Bachelor's degree in Computer Applications (BCA), igniting my passion for data-driven insights.
 - 🏆 Active participant on Kaggle, driven by the challenge and the opportunity to learn and grow.
 - 📈 Eager to delve deeper into machine learning and deep learning methodologies, constantly seeking opportunities to expand my skills.
-- 🌐 Discover more about my projects and interests on my personal website [philschmid.de](https://www.philschmid.de).
+- 🌐 Discover more about my projects and interests on my personal website [shivamchhetry.com](https://shivamkc01.github.io).
 
 ## Connect with Me
 
