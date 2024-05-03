@@ -12,10 +12,10 @@
 
 ## Connect with Me
 
-- 📧 Reach out via email at [your@email.com](mailto:shivam.11712711@gmail.com).
-- 🔗 Let's connect on LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shivamkc01/)).
-- 🐦 Follow my journey on Kaggle (formerly Kaggle) for updates and insights: [twitter.com/yourhandle]([https://twitter.com/yourhandle](https://www.kaggle.com/shivamkc3)).
-- 
+- 📧 Reach out via email at [shivam.11712711@email.com](mailto:shivam.11712711@gmail.com).
+- 🔗 Let's connect on LinkedIn: [linkedin.com/in/shivamkc01]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shivamkc01/).
+- 🐦 Follow my journey on Kaggle (formerly Kaggle) for updates and insights: [twitter.com/yourhandle]([https://twitter.com/yourhandle](https://www.kaggle.com/shivamkc3).
+
 
 ### 🔗 Connect with me:
 
