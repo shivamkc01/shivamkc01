@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <b>Hi there, I'm Shivam! 👋</b>
-</p>
+</h1>
 
 <p align="center">
   I'm a Data Scientist with a passion for exploring AI models and pushing the boundaries of technology. I started coding early on, which sparked my journey into Computer Science. After earning my Bachelor's degree, I've spent the past year diving deep into Data Science and Machine Learning in the tech sector. I'm passionate about sharing my technical insights and love solving complex challenges with innovative ideas. Inspired by the Japanese concept of Kata, I believe in thoughtful, continuous improvement and driving impactful innovation.
